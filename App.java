@@ -12,7 +12,7 @@ public class App {
         System.out.printf("%.2f\n", object1.question2());
         System.out.print("\n\tSubject with the highest number of approved exams: ");
         System.out.println(object1.question3());
-        System.out.print("\n\tStudent with the best performance for the subject OOP: ");
+        System.out.print("\n\tStudent with the best performance for the subject Introduction to CS: ");
         System.out.println(object1.question4());
 
         object1.scanner.close();
